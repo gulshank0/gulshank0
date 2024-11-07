@@ -1,4 +1,5 @@
 - Hi, I’m @gulshank0
+- leaning new tech stack most realated to wb dev
 
 
 
