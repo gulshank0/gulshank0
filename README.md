@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# Hi there! 👋 I'm Gulshan
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Welcome to my GitHub profile! I'm passionate about technology and love building things that make a difference.
+
+## 📫 Let's Connect
+
+-  [LinkedIn](https://linkedin.com/in/in/gulshan-kumar-872512270)
+-  [Twitter](https://x.com/gulshank0)
+-  Email: gulshan63072@gmail.com
