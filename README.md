@@ -4,6 +4,6 @@ Welcome to my GitHub profile! I'm passionate about technology and love building 
 
 ## 📫 Let's Connect
 
--  [LinkedIn](https://linkedin.com/in/in/gulshan-kumar-872512270)
+-  [LinkedIn](https://linkedin.com/in/gulshan-kumar-872512270/)
 -  [Twitter](https://x.com/gulshank0)
 -  Email: gulshan63072@gmail.com
