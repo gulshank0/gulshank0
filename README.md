@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gulshan
+# Hi there!  I'm Gulshan
 
 Welcome to my GitHub profile! I'm passionate about technology and love building things that make a difference.
 
